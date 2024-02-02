@@ -6,7 +6,6 @@
 
 #### Special Software
 
-    1. Mysql RDBMS
+    1. Postgresql RDBMS
     2. Nginx
-    3. Golang runtime and supporting packages eg: gin, sqlx
-    4. React
+    3. .Net core runtime and Framework ASP.NET Core Mvc
