@@ -6,6 +6,6 @@
 
 #### Special Software
 
-    1. Postgresql RDBMS
+    1. Mysql RDBMS
     2. Nginx
     3. .Net core runtime and Framework ASP.NET Core Mvc
